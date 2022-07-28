@@ -27,3 +27,20 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<script src="https://giscus.app/client.js"
+        data-repo="kerogunsou/sample"
+        data-repo-id="R_kgDOHuti-Q"
+        data-category="General"
+        data-category-id="DIC_kwDOHuti-c4CQetg"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
